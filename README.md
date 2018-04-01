@@ -11,7 +11,7 @@
 
 ```
 wget https://raw.githubusercontent.com/miguelmota/mov2gif/master/mov2gif.sh
-chmod +x pgconn.sh
+chmod +x mov2gif.sh
 mv mov2gif.sh /usr/local/bin/mov2gif
 ```
 
